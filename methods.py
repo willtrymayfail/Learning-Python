@@ -20,6 +20,3 @@ class Planet:
         return f'The planet spins and spins at {speed}'
 
 hoth = Planet('Hoth', 2000000, 5.5, 'Hoth System')
-
-
-
